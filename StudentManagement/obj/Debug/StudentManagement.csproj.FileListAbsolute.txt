@@ -1,0 +1,10 @@
+D:\Coding\Csharp\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\Coding\Csharp\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\Coding\Csharp\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+D:\Coding\Csharp\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
